@@ -8,16 +8,23 @@ useHead({
 
 const achievements = [
   {
-    text: '1st Place at LKS Nasional 2020 Web Technologies',
+    text: 'Graduate From Coursera Specialization Google IT Support',
     class: 'i-mdi:trophy text-yellow-500 w-5 h-5'
   },
   {
-    text: '1st Place at LKS Provinsi DKI Jakarta 2020 Web Technologies',
+    text: 'Graduated From Coursera Google IT Automation With Python',
+    class: 'i-mdi:trophy text-yellow-500 w-5 h-5'
+  },
+ {
+    text: 'Lintasarta Digischool Backend Class Facilitator',
     class: 'i-mdi:trophy text-yellow-500 w-5 h-5'
   },
   {
-    text: '3rd Place at LKS Provinsi DKI Jakarta 2019 Web Technologies',
-    class: 'i-mdi:trophy text-rose-700 w-5 h-5'
+    text: 'Graduated From Dicoding Class Menjadi Backend Developer Expert',
+    class: 'i-mdi:trophy text-yellow-500 w-5 h-5'
+  },
+  {
+      text: 'See more on my Linkedin profile...',
   },
 ]
 </script>

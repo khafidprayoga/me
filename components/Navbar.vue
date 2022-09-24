@@ -21,7 +21,7 @@ const toggleDark = useToggle(isDark)
     <div class="navbar__brand | italic text-center flex justify-center py-3">
       <div class='w-1/3'></div>
       <h3 class="w-1/3 text-xl my-0">
-        <router-link to="/" class="decoration-none | dark:text-white!">Saugi</router-link>
+        <router-link to="/" class="decoration-none | dark:text-white!">Khafid Prayoga</router-link>
       </h3>
       <div class='w-1/3'>
         <button class="p-2 bg-transparent border-none md:hidden inline-block" type="button" name="toggle-menu" aria-label="Toggle Menu" @click="isNavbarOpen=!isNavbarOpen">
@@ -36,9 +36,6 @@ const toggleDark = useToggle(isDark)
         </li>
         <li class="navbar__item">
           <nuxt-link to="/achievements" class="navbar__link">Achievements</nuxt-link>
-        </li>
-        <li class="navbar__item">
-          <nuxt-link to="/projects" class="navbar__link">Projects</nuxt-link>
         </li>
         <li class="navbar__item">
           <nuxt-link to="/contact" class="navbar__link">Reach me!</nuxt-link>

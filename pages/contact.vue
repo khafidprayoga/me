@@ -15,19 +15,11 @@ useHead({
       <div class="cards max-w-[300px] mx-auto">
         <div class="contact | flex items-center gap-3 mb-5">
           <div class="i-mdi-gmail w-6 h-6 bg-red-500"></div>
-          <a href="saugi.dev@gmail.com">saugi.dev@gmail.com</a>
-        </div>
-        <div class="contact | flex items-center gap-3 mb-5">
-          <div class="i-mdi-telegram w-6 h-6 bg-[#2294cf]"></div>
-          <a href="https://t.me/zuramai" target="_blank">@zuramai</a>
+          <a href="khafid.dev@gmail.com">khafid.dev@gmail.com</a>
         </div>
         <div class="contact | flex items-center gap-3 mb-5">
           <div class="i-mdi-linkedin w-6 h-6 bg-blue-500"></div>
-          <a href="https://linkedin.com/in/ahmad-saugi" target="_blank">Ahmad Saugi</a>
-        </div>
-        <div class="contact | flex items-center gap-3 mb-5">
-          <div class="i-mdi-instagram w-6 h-6 bg-red-500"></div>
-          <a href="https://instagram.com/asawgi" target="_blank">@asawgi</a>
+          <a href="https://www.linkedin.com/in/khafidprayoga/" target="_blank">Muhammad Khafid Prayoga</a>
         </div>
       </div>
     </div>
