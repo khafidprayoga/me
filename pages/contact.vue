@@ -15,7 +15,7 @@ useHead({
       <div class="cards max-w-[300px] mx-auto">
         <div class="contact | flex items-center gap-3 mb-5">
           <div class="i-mdi-gmail w-6 h-6 bg-red-500"></div>
-          <a href="khafid.dev@gmail.com">khafid.dev@gmail.com</a>
+          <a href="mailto:khafid.dev@gmail.com">khafid.dev@gmail.com</a>
         </div>
         <div class="contact | flex items-center gap-3 mb-5">
           <div class="i-mdi-linkedin w-6 h-6 bg-blue-500"></div>
